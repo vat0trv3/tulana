@@ -10,10 +10,7 @@ Este repositorio contiene el código fuente de un prototipo web funcional para *
 
 **[https://tu-usuario-de-github.github.io/nombre-del-repositorio/](https://tu-usuario-de-github.github.io/nombre-del-repositorio/)**
 
-> **Nota:** Se recomienda ampliamente agregar un GIF que demuestre el flujo de la aplicación: desde el clic en el botón "GO", la navegación en la página de demo, hasta la reproducción del video introductorio.
->
-> ![Demostración del Prototipo](https://ruta-a-tu/demo.gif)
-> ---
+
 
 ## 🎯 Concepto del Proyecto
 
