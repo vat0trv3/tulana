@@ -1,0 +1,12 @@
+/* Asegura que el canvas ocupe toda la ventana sin márgenes */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Evita las barras de scroll */
+  background-color: #000; /* Fondo negro por si el canvas tarda en cargar */
+}
+
+/* Estilo para el canvas de p5.js */
+canvas {
+  display: block; /* Elimina cualquier espacio extra debajo del canvas */
+}
