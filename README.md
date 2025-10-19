@@ -8,7 +8,7 @@ Este repositorio contiene el código fuente de un prototipo web funcional para *
 
 ### 🔴 Ver Prototipo en Vivo
 
-**[https://tu-usuario-de-github.github.io/nombre-del-repositorio/](https://tu-usuario-de-github.github.io/nombre-del-repositorio/)**
+https://vat0trv3.github.io/tulana/
 
 
 
